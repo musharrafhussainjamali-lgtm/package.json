@@ -1,0 +1,1 @@
+import React from "react"; export default function Spinner(){ return (<div style={{border:"3px solid rgba(255,255,255,0.06)",borderLeftColor:"#00b894",borderRadius:"50%",width:18,height:18,animation:"spin 1s linear infinite"}} />) }
